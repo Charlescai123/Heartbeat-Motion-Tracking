@@ -6,7 +6,7 @@ A demo for implementing a heartbeat tracking system using Arduino and MATLAB wit
 ## Introduction
 
 The prototype design is primarily derived from the concepts outlined in this [paper](https://ieeexplore.ieee.org/document/8833632). It incorporates **Arduino Tool Kits**, including a microcontroller board, servo motor, LEDs, and an ultrasonic sensor. **MATLAB ROS Toolbox** is utilized for data transmission, enabling the robot end-effector to track heartbeat motion with the collected sensor data.
-<p align="center"><img src="imgs/hardware.jpg" width="700"/></p>
+<p align="center"><img src="imgs/hardware.jpg" width="680"/></p>
 
 ---
 
